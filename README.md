@@ -1,4 +1,4 @@
-#Apress Source Code
+# Apress Source Code
 
 This repository accompanies [*Pro SQL Server Relational Database Design and Implementation*](http://www.apress.com/9781484219720) by Louis Davidson and Jessica Moss (Apress, 2016).
 
@@ -6,10 +6,10 @@ This repository accompanies [*Pro SQL Server Relational Database Design and Impl
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-##Releases
+## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-##Contributions
+## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
